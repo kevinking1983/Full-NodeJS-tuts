@@ -1,0 +1,23 @@
+/*
+
+Express js
+
+It is and free web application open source framework for nodejs
+
+completly built on node js
+
+standard out of all other frameworks
+
+allows us wirte faster and simpler
+
+organize node js in MVC architecture
+
+
+Decreases the complexity of code
+
+
+
+
+
+
+*/

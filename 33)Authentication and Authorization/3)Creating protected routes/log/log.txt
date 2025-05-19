@@ -1,0 +1,12 @@
+Query took 1705840335318 milliseconds to fetch the documents
+Query took 1705840406390 milliseconds to fetch the documents
+Query took 1705840407337 milliseconds to fetch the documents
+Query took 1705840408223 milliseconds to fetch the documents
+Query took 1705840409167 milliseconds to fetch the documents
+Query took 1705840469799 milliseconds to fetch the documents
+Query took 1705840470557 milliseconds to fetch the documents
+Query took 1705840672592 milliseconds to fetch the documents
+Query took 1716228819845 milliseconds to fetch the documents
+Query took 1716229505549 milliseconds to fetch the documents
+A new movie document with name testRidick has been created by Kevin
+Query took 1716232193819 milliseconds to fetch the documents
